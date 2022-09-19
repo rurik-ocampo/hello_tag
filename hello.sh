@@ -1,1 +1,1 @@
-echo "Hello tag 0.0.1"
+echo "Hello tag 0.0.2"
